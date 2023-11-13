@@ -1,0 +1,10 @@
+C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\bin\Debug\Sistema_Cobranza.exe.config
+C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\bin\Debug\Sistema_Cobranza.exe
+C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\bin\Debug\Sistema_Cobranza.pdb
+C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.csproj.AssemblyReference.cache
+C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.Formularios.FrmLogin.resources
+C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.Properties.Resources.resources
+C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.csproj.GenerateResource.cache
+C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.csproj.CoreCompileInputs.cache
+C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.exe
+C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.pdb
