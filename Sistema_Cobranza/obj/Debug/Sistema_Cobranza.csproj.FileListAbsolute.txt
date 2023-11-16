@@ -8,3 +8,14 @@ C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\obj\Debug\Sistema
 C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.csproj.CoreCompileInputs.cache
 C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.exe
 C:\Users\Sarai Valle\Desktop\Sistema_Cobranza\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.pdb
+C:\Proyectos C#\Sistema-Cobranzas-Front\Sistema_Cobranza\bin\Debug\Sistema_Cobranza.exe.config
+C:\Proyectos C#\Sistema-Cobranzas-Front\Sistema_Cobranza\bin\Debug\Sistema_Cobranza.exe
+C:\Proyectos C#\Sistema-Cobranzas-Front\Sistema_Cobranza\bin\Debug\Sistema_Cobranza.pdb
+C:\Proyectos C#\Sistema-Cobranzas-Front\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.csproj.AssemblyReference.cache
+C:\Proyectos C#\Sistema-Cobranzas-Front\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos C#\Sistema-Cobranzas-Front\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.Formularios.FrmLogin.resources
+C:\Proyectos C#\Sistema-Cobranzas-Front\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.Properties.Resources.resources
+C:\Proyectos C#\Sistema-Cobranzas-Front\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.csproj.GenerateResource.cache
+C:\Proyectos C#\Sistema-Cobranzas-Front\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.csproj.CoreCompileInputs.cache
+C:\Proyectos C#\Sistema-Cobranzas-Front\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.exe
+C:\Proyectos C#\Sistema-Cobranzas-Front\Sistema_Cobranza\obj\Debug\Sistema_Cobranza.pdb
